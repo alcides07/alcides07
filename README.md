@@ -19,8 +19,8 @@
 ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/alcides-tiago-ba4583224/" ><img src='https://svgshare.com/i/g4G.svg' title='Icon Linkedin' /></a>
-  <a href="https://instagram.com/alcides07" ><img src='https://svgshare.com/i/g3s.svg' title='Icon Instagram' /></a>
-  <a href="mailto:alcidesdantasdj@gmail.com" ><img src='https://svgshare.com/i/g3F.svg' title='Icon Gmail' /></a>
+  <a href="https://www.linkedin.com/in/alcides-tiago-ba4583224/" target="_blank"><img src='https://svgshare.com/i/g4G.svg' title='Icon Linkedin' /></a>
+  <a href="https://instagram.com/alcides07" target="_blank"><img src='https://svgshare.com/i/g3s.svg' title='Icon Instagram' /></a>
+  <a href="mailto:alcidesdantasdj@gmail.com" target="_blank"><img src='https://svgshare.com/i/g3F.svg' title='Icon Gmail' /></a>
 </div>
   
