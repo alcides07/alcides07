@@ -1,4 +1,4 @@
-# Eaaee! Me chamo Alcides e sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software :)
+# \o/ Eaaee! Me chamo Alcides e sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software :)
 
 <div align = "center">
     <a href = "https://github.com/alcides07">
