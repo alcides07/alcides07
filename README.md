@@ -13,6 +13,7 @@
     <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align = "center" alt = "Alcides-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align = "center" alt = "Alcides-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
     <img align = "center" alt = "Alcides-JS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align = "center" alt = "Alcides-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
