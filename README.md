@@ -28,3 +28,5 @@
     <a href = "https://instagram.com/alcides07" target = "_blank"><img src = "https://svgshare.com/i/g3s.svg" title = "Icon Instagram"/> </a>
     <a href = "mailto:alcidesdantasdj@gmail.com" target = "_blank"><img src = "https://svgshare.com/i/g3F.svg" title = "Icon Gmail"/> </a> 
 </div>
+
+![snake gif](https://github.com/alcides07/alcides07/blob/output/github-contribution-grid-snake.svg)
