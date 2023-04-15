@@ -26,6 +26,7 @@ jobs:
           github_user_name: alcides07 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          color_snake: white
 
       - run: git status
 
