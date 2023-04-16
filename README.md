@@ -5,20 +5,24 @@
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87"/>
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alcides07&langs_count=10&layout=compact&langs_count=7&theme=radical&locale=pt-br&border_radius=12&title_color=EC90EF&text_color=EFEFEF"/>
 </div>
-    
+   
 <div style = "display: inline_block"><br>
-    <img align = "center" alt = "Alcides-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align = "center" alt = "Alcides-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align = "center" alt = "Alcides-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align = "center" alt = "Alcides-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <h4> Utilizando atualmente: </h4>
     <img align = "center" alt = "Alcides-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
     <img align = "center" alt = "Alcides-JS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align = "center" alt = "Alcides-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align = "center" alt = "Alcides-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img align = "center" alt = "Alcides-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align = "center" alt = "Alcides-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <br>
+    <h4> Já experienciados: </h4>
     <img align = "center" alt = "Alcides-Tailwind" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align = "center" alt = "Alcides-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align = "center" alt = "Alcides-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align = "center" alt = "Alcides-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
     
 ##
