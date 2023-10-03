@@ -1,4 +1,4 @@
-# \o/ Eaaee! Me chamo Alcides e sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=2300&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+estudante+de+análise+e+desenvolvimento+de+sistemas+e+desenvolvedor+de+software+:%29)](https://git.io/typing-svg)
 
 <div align = "center">
     <a href = "https://github.com/alcides07">
@@ -8,9 +8,7 @@
    
 <div style = "display: inline_block"><br>
     <h4> Utilizando atualmente: </h4>
-    <img align = "center" alt = "Alcides-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-    <img align = "center" alt = "Alcides-JS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align = "center" alt = "Alcides-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align = "center" alt = "Alcides-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,9 +21,7 @@
     <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align = "center" alt = "Alcides-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align = "center" alt = "Alcides-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-</div>
-    
-##
+</div><br>
     
 <div> 
     <a href = "https://www.linkedin.com/in/alcides-dantas-ba4583224/" target = "_blank"> <img src = "https://svgshare.com/i/g4G.svg" title = "Icon Linkedin"/> </a>
