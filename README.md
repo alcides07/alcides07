@@ -1,3 +1,5 @@
+<a href="https://github.com/alcides07">
+    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+estudante+de+análise+e+desenvolvimento+de+sistemas+no+IFRN:%29;Sou+desenvolvedor+de+software+:%29)
 
 <div align = "center">
@@ -7,15 +9,18 @@
 </div>
    
 <div style = "display: inline_block" align="center"><br>
-    <h4> Utilizando atualmente: </h4>
+
+   <a href="https://github.com/alcides07">
+       
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Trabalhando+atualmente+com:)
     <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
     <img align = "center" alt = "Alcides-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align = "center" alt = "Alcides-Storybook" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
     <img align = "center" alt = "Alcides-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align = "center" alt = "Alcides-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <br> <br>
-    <h4> Já experienciados: </h4>
+    
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+experienciados:)
     <img align = "center" alt = "Alcides-Tailwind" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     <img align = "center" alt = "Alcides-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
