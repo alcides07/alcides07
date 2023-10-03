@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=2300&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+estudante+de+análise+e+desenvolvimento+de+sistemas+e+desenvolvedor+de+software+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+estudante+de+análise+e+desenvolvimento+de+sistemas+:%29;Sou+desenvolvedor+de+software+:%29)
 
 <div align = "center">
     <a href = "https://github.com/alcides07">
