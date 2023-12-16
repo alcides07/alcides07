@@ -6,7 +6,9 @@
     <a href = "https://github.com/alcides07">
     <img height = "180em" src = "https://github-readme-stats-alcides07.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87"/>
     <img height = "180em" src = "https://github-readme-stats-alcides07.vercel.app/api/top-langs/?username=alcides07&langs_count=10&layout=compact&theme=radical&locale=pt-br&border_radius=12&title_color=EC90EF&text_color=EFEFEF"/>
+    <img heght = "180em" src = "https://streak-stats.demolab.com/?user=alcides07&theme=radical&hide_border=false&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&dates=EC90EF&sideLabels=EC90EF&sideNums=EC90EF&border=EFEFEF&hide_current_streak=true&hide_longest_streak=true"/>
 </div>
+
    
 <div style = "display: inline_block" align="center"><br>
    <a href="https://github.com/alcides07">
