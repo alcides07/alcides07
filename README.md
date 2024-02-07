@@ -25,7 +25,7 @@
    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+experienciados:)
     <img align = "center" alt = "Alcides-Docker" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-    <img align = "center" alt = "Alcides-Tailwind" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align = "center" alt = "Alcides-Tailwind" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     <img align = "center" alt = "Alcides-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
