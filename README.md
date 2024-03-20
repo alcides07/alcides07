@@ -14,23 +14,18 @@
    <a href="https://github.com/alcides07">
        
    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Trabalhando+atualmente+com:)
+    <img align = "center" alt = "Alcides-FastAPI" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+    <img align = "center" alt = "Alcides-SQLAlchemy" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
+    <img align = "center" alt = "Alcides-PostgreSQL" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align = "center" alt = "Alcides-Docker" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align = "center" alt = "Alcides-Pytest" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg">
     <img align = "center" alt = "Alcides-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align = "center" alt = "Alcides-FastAPI" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
     <img align = "center" alt = "Alcides-Storybook" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
-    <img align = "center" alt = "Alcides-Gitlab" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-    <img align = "center" alt = "Alcides-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align = "center" alt = "Alcides-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+experienciados:)
-    <img align = "center" alt = "Alcides-Docker" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align = "center" alt = "Alcides-Django" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-    <img align = "center" alt = "Alcides-Tailwind" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align = "center" alt = "Alcides-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img align = "center" alt = "Alcides-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align = "center" alt = "Alcides-CPP" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align = "center" alt = "Alcides-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align = "center" alt = "Alcides-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+    <img align = "center" alt = "Alcides-Django-REST" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
 </div><br>
     
 <div align = "center"> 
