@@ -1,6 +1,6 @@
 <a href="https://github.com/alcides07">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+estudante+de+análise+e+desenvolvimento+de+sistemas+no+IFRN+:%29;Sou+desenvolvedor+de+software+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+desenvolvedor+backend+:%29)
 
 <div align = "center">
     <a href = "https://github.com/alcides07">
@@ -29,7 +29,7 @@
 </div><br>
     
 <div align = "center"> 
-    <a href = "https://www.linkedin.com/in/alcides-dantas-ba4583224/" target = "_blank"> <img src = "https://svgshare.com/i/g4G.svg" title = "Icon Linkedin"/> </a>
-    <a href = "https://instagram.com/alcides07" target = "_blank"><img src = "https://svgshare.com/i/g3s.svg" title = "Icon Instagram"/> </a>
-    <a href = "mailto:alcidesdantasdj@gmail.com" target = "_blank"><img src = "https://svgshare.com/i/g3F.svg" title = "Icon Gmail"/> </a> 
+    <a href = "https://www.linkedin.com/in/alcides-dantas/" target = "_blank"> <img src = "https://img.shields.io/badge/-Linkedin-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" title = "Icon Linkedin"/> </a>
+    <a href = "https://instagram.com/alcides07" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" title = "Icon Instagram"/> </a>
+    <a href = "mailto:alcidesdantasdj@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" title = "Icon Gmail"/> </a> 
 </div>
