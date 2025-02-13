@@ -1,6 +1,6 @@
 <a href="https://github.com/alcides07">
-    
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+desenvolvedor+backend+:%29)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+desenvolvedor+backend+:%29;Sou+entusiasta+em+API's+e+em+revisão+de+código+xD)
 
 <div align = "center">
     <a href = "https://github.com/alcides07">
@@ -31,6 +31,9 @@
     <a href = "https://instagram.com/alcides07" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" title = "Icon Instagram"/> </a>
     <a href = "mailto:alcidesdantasdj@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" title = "Icon Gmail"/> </a> 
 </div>
+
+<hr>
+<h3>Mais métricas</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2030%20mins-blue)
