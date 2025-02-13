@@ -17,13 +17,16 @@
     <img align = "center" alt = "Alcides-Django-REST" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
     <img align = "center" alt = "Alcides-PostgreSQL" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img align = "center" alt = "Alcides-Docker" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align = "center" alt = "Alcides-Celery" height = "30" width = "30" src = "https://github.com/celery/celery/blob/main/docs/images/celery_512.png">
     
    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+experienciados:)
     <img align = "center" alt = "Alcides-FastAPI" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
     <img align = "center" alt = "Alcides-SQLAlchemy" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
+    <img align = "center" alt = "Alcides-RabbitMQ" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
     <img align = "center" alt = "Alcides-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align = "center" alt = "Alcides-Storybook" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
+    <img align = "center" alt = "Alcides-Cypress" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
 </div><br>
     
 <div align = "center"> 
