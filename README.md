@@ -31,3 +31,6 @@
     <a href = "https://instagram.com/alcides07" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" title = "Icon Instagram"/> </a>
     <a href = "mailto:alcidesdantasdj@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" title = "Icon Gmail"/> </a> 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
