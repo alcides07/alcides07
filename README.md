@@ -7,7 +7,7 @@
     <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87"/>
     <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/top-langs/?username=alcides07&langs_count=5&layout=compact&theme=radical&locale=pt-br&border_radius=12&title_color=EC90EF&text_color=EFEFEF"/>
     <img heght = "180em" src = "https://github-readme-streak-stats-drab-five.vercel.app/?user=alcides07&theme=radical&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=750&dates=EFEFEF&sideLabels=EC90EF&sideNums=EC90EF&border=EFEFEF&fire=EC90EF&currStreakNum=EC90EF&currStreakLabel=EC90EF&ring=EC90EF&stroke=EFEFEF"/>
-    <img heght = "180em" src = "https://github-readme-stats-alcides07.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5&custom_title=Tempo%20de%20uso%20(7%20%C3%BAltimos%20dias)"/>
+    <img heght = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5&custom_title=Tempo%20de%20uso%20(7%20%C3%BAltimos%20dias)"/>
 </div>
    
 <div style = "display: inline_block" align="center"><br>
