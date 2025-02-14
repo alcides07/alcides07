@@ -39,7 +39,7 @@
 <h3>Mais métricas</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2035%20mins-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -72,5 +72,5 @@ Linux                    16 hrs 35 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/alcides07/alcides07/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 17:39:09 UTC
+ Last Updated on 14/02/2025 03:15:39 UTC
 <!--END_SECTION:waka-->
