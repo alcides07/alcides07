@@ -19,7 +19,7 @@
     <img align = "center" alt = "Alcides-Docker" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align = "center" alt = "Alcides-Celery" height = "30" width = "30" src = "https://github.com/celery/celery/blob/main/docs/images/celery_512.png">
     
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+experienciados:)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Já+trabalhados:)
     <img align = "center" alt = "Alcides-FastAPI" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
     <img align = "center" alt = "Alcides-SQLAlchemy" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
     <img align = "center" alt = "Alcides-RabbitMQ" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
