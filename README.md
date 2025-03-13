@@ -27,6 +27,9 @@
     <img align = "center" alt = "Alcides-Typescript" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align = "center" alt = "Alcides-Storybook" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
     <img align = "center" alt = "Alcides-Cypress" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
+
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=Estudando:)
+    <img align = "center" alt = "Alcides-Spring" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div><br>
     
 <div align = "center"> 
