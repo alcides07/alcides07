@@ -35,8 +35,8 @@
     <a href = "https://github.com/alcides07">
     <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87"/>
     <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/top-langs/?username=alcides07&langs_count=5&layout=compact&theme=radical&locale=pt-br&border_radius=12&title_color=EC90EF&text_color=EFEFEF"/>
-    <img heght = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5"/>
-    <img heght = "180em" src = "https://github-readme-streak-stats-drab-five.vercel.app/?user=alcides07&theme=radical&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=750&dates=EFEFEF&sideLabels=EC90EF&sideNums=EC90EF&border=EFEFEF&fire=EC90EF&currStreakNum=EC90EF&currStreakLabel=EC90EF&ring=EC90EF&stroke=EFEFEF"/>
+    <img height = "180em" src = "https://github-readme-streak-stats-drab-five.vercel.app/?user=alcides07&theme=radical&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=750&dates=EFEFEF&sideLabels=EC90EF&sideNums=EC90EF&border=EFEFEF&fire=EC90EF&currStreakNum=EC90EF&currStreakLabel=EC90EF&ring=EC90EF&stroke=EFEFEF"/>
+   <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5"/>
 </div>
 
 <hr>
