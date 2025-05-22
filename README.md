@@ -43,38 +43,12 @@
 <h3>Mais métricas</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2048%20mins-blue)
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Fortaleza
-
-💬 Linguagens de programação: 
-TypeScript               9 hrs 7 mins        ██████████████░░░░░░░░░░░   55.29 % 
-Python                   3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-
-🔥 Editores: 
-VS Code                  16 hrs 30 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projetos: 
-consumidor-prp           5 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.98 % 
-agente-unidade-prp       3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-api-prp                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-api-plp                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-agente-unidade           1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-
-💻 Sistema operacional: 
-Linux                    16 hrs 30 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2035%20mins-blue)
 
 **Linha do tempo**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/alcides07/alcides07/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 03:38:32 UTC
+ Last Updated on 22/05/2025 03:38:54 UTC
 <!--END_SECTION:waka-->
