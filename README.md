@@ -1,6 +1,6 @@
 <a href="https://github.com/alcides07">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+desenvolvedor+backend+:%29;Sou+entusiasta+em+API's+e+em+revisão+de+código+xD)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=2200&height=100&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Sou+dev.+backend+e+entusiasta+em+API's+e+revisão+de+código+xD)
 
 <div style = "display: inline_block" align="center"><br>
    <a href="https://github.com/alcides07">
