@@ -34,7 +34,6 @@
 <div align = "center">
     <a href = "https://github.com/alcides07">
     <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87"/>
-    <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/top-langs/?username=alcides07&langs_count=5&layout=compact&theme=radical&locale=pt-br&border_radius=12&title_color=EC90EF&text_color=EFEFEF"/>
    <img height = "180em" src = "https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5"/>
 </div>
 
