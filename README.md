@@ -40,18 +40,18 @@
 
 <section align="center">
   <a href="https://github.com/alcides07">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&color=EC90EF&font=Lilita+One&lines=Contatos:">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=20&center=true&color=EC90EF&font=Lilita+One&lines=Contatos:">
   </a>
   <div>    
+    <a href="mailto:alcidesdantasdj@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-%23ec90ef?style=for-the-badge&labelColor=621466&logo=gmail&color=8A2A8F&logoColor=white" alt="Enviar email para Alcides"/>
+    </a> 
     <a href="https://www.linkedin.com/in/alcides-dantas/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Linkedin-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn de Alcides"/>
+      <img src="https://img.shields.io/badge/Linkedin-%23ec90ef?style=for-the-badge&labelColor=621466&color=8A2A8F&logoColor=white" alt="LinkedIn de Alcides"/>
     </a>
     <a href="https://instagram.com/alcides07" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram de Alcides"/>
+      <img src="https://img.shields.io/badge/Instagram-%23ec90ef?style=for-the-badge&labelColor=621466&logo=instagram&color=8A2A8F&logoColor=white" alt="Instagram de Alcides"/>
     </a>
-    <a href="mailto:alcidesdantasdj@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Enviar email para Alcides"/>
-    </a> 
   </div>
 </section>
 
@@ -59,7 +59,7 @@
 
 <section align="center">
   <a href="https://github.com/alcides07">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&color=EC90EF&font=Lilita+One&lines=Métricas:">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=20&center=true&color=EC90EF&font=Lilita+One&lines=Métricas:">
     <div>
       <img height="180em" src="https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5" alt="Estatísticas de tempo de codificação do WakaTime"/>
       <img height="180em" src="https://github-readme-stats-alcides07s-projects.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87" alt="Estatísticas do GitHub de Alcides"/>
