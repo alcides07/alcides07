@@ -1,6 +1,6 @@
 <header align="center">
   <a href="https://github.com/alcides07">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lilita+One&size=50&center=true&vCenter=true&width=2200&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Dev.+backend+e+entusiasta+em+API's+e+revisão+de+código+xD">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lilita+One&size=60&center=true&vCenter=true&width=2200&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Dev.+backend+e+entusiasta+em+API's+e+revisão+de+código+xD">
   </a>
 </header>
 
@@ -23,6 +23,8 @@
     </div>
   </a>
 </section>
+
+<br>
 
 <section align="center">
   <a href="https://github.com/alcides07">
