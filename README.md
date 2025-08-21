@@ -1,8 +1,8 @@
-<header align="center">
+<section align="center">
   <a href="https://github.com/alcides07">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lilita+One&size=60&center=true&vCenter=true&width=2200&color=EC90EF&lines=\o/+Eaaee!+Me+chamo+Alcides!;Dev.+backend+e+entusiasta+em+API's+e+revisão+de+código+xD">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&font=Lilita+One&size=30&duration=2500&color=EC90EF&lines=Dev.+backend+❤️;API's+❤️;Revisão+de+código+❤️">
   </a>
-</header>
+</section>
 
 <hr>
 
