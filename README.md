@@ -62,7 +62,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&center=true&color=EC90EF&font=Lilita+One&lines=Métricas:">
     <div>
       <img height="180em" src="https://github-readme-stats-alcides07s-projects.vercel.app/api/wakatime?username=alcides07&theme=radical&border_radius=5&title_color=EC90EF&text_color=EFEFEF&langs_count=5" alt="Estatísticas de tempo de codificação do WakaTime"/>
-      <img height="180em" src="https://github-readme-stats-alcides07s-projects.vercel.app/api?username=alcides07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br&border_radius=10&title_color=EC90EF&text_color=EFEFEF&icon_color=EBFC87" alt="Estatísticas do GitHub de Alcides"/>
     </div>
   </a>
 </section>
