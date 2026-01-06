@@ -71,31 +71,31 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2034%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-🕑︎ Time Zone: America/Fortaleza
+🕑︎ Fuso horário: America/Fortaleza
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 C#                       12 hrs 18 mins      ████████████████░░░░░░░░░   62.25 % 
 Vue.js                   6 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.79 % 
 TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
-🔥 Editors: 
+🔥 Editores: 
 Cursor                   19 hrs 46 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
+🐱‍💻 Projetos: 
 TopSolutions.Licitacao.Ap12 hrs 18 mins      ████████████████░░░░░░░░░   62.28 % 
 TopSolutions.Licitacao.We7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Windows                  19 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/01/2026 19:34:51 UTC
+ Last Updated on 06/01/2026 19:40:12 UTC
 <!--END_SECTION:waka-->
 
 <hr>
