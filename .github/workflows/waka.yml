@@ -20,4 +20,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LOC_CHART: 'False'
           LOCALE: "pt"
-          LOCALE: "en"
