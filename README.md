@@ -12,7 +12,10 @@
     <div>
       <img alt="Django REST" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
       <img alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+      <img alt="SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
       <img alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+      <img alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+      <img alt="Entity Framework Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
       <img alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
       <img alt="Celery" height="30" width="30" src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png">
       <img alt="RabbitMQ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
@@ -32,6 +35,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&center=true&color=EC90EF&font=Lilita+One&lines=Estudando:">
     <div>
       <img alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+      <img alt="Vue JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     </div>
   </a>
 </section>
