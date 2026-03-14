@@ -81,27 +81,30 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       20 hrs 2 mins       ██████████████████████░░░   86.75 % 
-Vue.js                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-XML                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C#                       17 hrs 8 mins       ████████████████████░░░░░   79.69 % 
+Vue.js                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editores: 
-Cursor                   23 hrs 2 mins       █████████████████████████   99.75 % 
-Visual Studio            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Cursor                   21 hrs 27 mins      █████████████████████████   99.72 % 
+Visual Studio            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap20 hrs 56 mins      ███████████████████████░░   90.64 % 
-TopSolutions.Licitacao.We2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-TopSolutions.SOFC.WebApp 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TopSolutions.Licitacao.Ap17 hrs 56 mins      █████████████████████░░░░   83.44 % 
+TopSolutions.Licitacao.We3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+TopSolutions.SOFC.WebApp 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+calculo_fatura           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 30 mins      █████████████████████████   99.99 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 13/03/2026 21:22:17 UTC
+ Last Updated on 14/03/2026 21:16:22 UTC
 <!--END_SECTION:waka-->
 
 <hr>
