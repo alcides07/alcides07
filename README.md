@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C178%20hrs%204%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,28 +81,28 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       18 hrs 43 mins      █████████████████████░░░░   83.87 % 
-Vue.js                   3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C#                       18 hrs 18 mins      █████████████████████░░░░   85.18 % 
+Vue.js                   2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editores: 
-Cursor                   22 hrs 19 mins      █████████████████████████   99.99 % 
+Cursor                   21 hrs 29 mins      █████████████████████████   99.99 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap18 hrs 51 mins      █████████████████████░░░░   84.48 % 
-TopSolutions.Licitacao.We3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TopSolutions.Licitacao.Ap18 hrs 24 mins      █████████████████████░░░░   85.70 % 
+TopSolutions.Licitacao.We3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 calculo_fatura           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Sistema operacional: 
-Windows                  22 hrs 19 mins      █████████████████████████   99.99 % 
+Windows                  21 hrs 29 mins      █████████████████████████   99.99 % 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 18/03/2026 21:24:02 UTC
+ Last Updated on 19/03/2026 21:23:58 UTC
 <!--END_SECTION:waka-->
 
 <hr>
