@@ -81,28 +81,25 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       21 hrs 12 mins      ███████████████████████░░   90.82 % 
-Vue.js                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C#                       24 hrs 47 mins      ████████████████████████░   96.11 % 
+Vue.js                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editores: 
-Cursor                   23 hrs 20 mins      █████████████████████████   99.99 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Cursor                   25 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap21 hrs 40 mins      ███████████████████████░░   92.82 % 
-TopSolutions.Licitacao.We1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-calculo_fatura           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TopSolutions.Licitacao.Ap25 hrs 13 mins      ████████████████████████░   97.80 % 
+TopSolutions.Licitacao.We34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 20 mins      █████████████████████████   99.99 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Windows                  25 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 21:19:54 UTC
+ Last Updated on 21/03/2026 21:14:17 UTC
 <!--END_SECTION:waka-->
 
 <hr>
