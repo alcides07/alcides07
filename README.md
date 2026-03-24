@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2058%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,25 +81,27 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       24 hrs 47 mins      ████████████████████████░   96.11 % 
-Vue.js                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C#                       22 hrs 1 min        ██████████████████████░░░   89.99 % 
+Vue.js                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editores: 
-Cursor                   25 hrs 47 mins      █████████████████████████   100.00 % 
+Cursor                   24 hrs 21 mins      █████████████████████████   99.53 % 
+Visual Studio            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap25 hrs 13 mins      ████████████████████████░   97.80 % 
-TopSolutions.Licitacao.We34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TopSolutions.Licitacao.Ap22 hrs 34 mins      ███████████████████████░░   92.28 % 
+TopSolutions.Licitacao.We1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+TopSolutions.SOFC.WebApp 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Sistema operacional: 
-Windows                  25 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 21:24:55 UTC
+ Last Updated on 24/03/2026 21:26:58 UTC
 <!--END_SECTION:waka-->
 
 <hr>
