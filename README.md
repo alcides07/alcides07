@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2025%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,27 +81,27 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       22 hrs 1 min        ██████████████████████░░░   89.99 % 
-Vue.js                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C#                       19 hrs 50 mins      ██████████████████████░░░   87.51 % 
+Vue.js                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+VB.NET                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editores: 
-Cursor                   24 hrs 21 mins      █████████████████████████   99.53 % 
-Visual Studio            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Cursor                   22 hrs 33 mins      █████████████████████████   99.49 % 
+Visual Studio            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap22 hrs 34 mins      ███████████████████████░░   92.28 % 
-TopSolutions.Licitacao.We1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-TopSolutions.SOFC.WebApp 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TopSolutions.Licitacao.Ap20 hrs 20 mins      ██████████████████████░░░   89.74 % 
+TopSolutions.Licitacao.We2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+TopSolutions.SOFC.WebApp 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Sistema operacional: 
-Windows                  24 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 21:26:58 UTC
+ Last Updated on 25/03/2026 21:26:57 UTC
 <!--END_SECTION:waka-->
 
 <hr>
