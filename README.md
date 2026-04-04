@@ -81,27 +81,27 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       19 hrs 55 mins      ██████████████████████░░░   88.01 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Vue.js                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C#                       15 hrs 46 mins      █████████████████████░░░░   85.46 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Vue.js                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editores: 
-Cursor                   22 hrs 13 mins      █████████████████████████   98.21 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Cursor                   18 hrs 3 mins       ████████████████████████░   97.81 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap21 hrs 39 mins      ████████████████████████░   95.69 % 
-TopSolutions.Licitacao.We54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TopSolutions.Licitacao.Ap17 hrs 29 mins      ████████████████████████░   94.72 % 
+TopSolutions.Licitacao.We54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Sistema operacional: 
-Windows                  22 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 21:22:44 UTC
+ Last Updated on 04/04/2026 21:20:03 UTC
 <!--END_SECTION:waka-->
 
 <hr>
