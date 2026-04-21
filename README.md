@@ -81,30 +81,30 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       22 hrs 19 mins      ██████████████████████░░░   87.60 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-SQL                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+C#                       19 hrs 22 mins      ██████████████████████░░░   87.93 % 
+SQL                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editores: 
-Cursor                   24 hrs 39 mins      ████████████████████████░   96.79 % 
-Unknown Editor           34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Visual Studio            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Cursor                   21 hrs 31 mins      ████████████████████████░   97.65 % 
+Visual Studio            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Unknown Editor           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap24 hrs 5 mins       ████████████████████████░   94.57 % 
-TopSolutions.Licitacao.PR48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TopSolutions.SOFC.WebApp 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-agent-tools              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TopSolutions.Licitacao.Ap20 hrs 57 mins      ████████████████████████░   95.10 % 
+TopSolutions.Licitacao.PR29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TopSolutions.SOFC.WebApp 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+agent-tools              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Sistema operacional: 
-Windows                  25 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 21:36:17 UTC
+ Last Updated on 21/04/2026 21:35:19 UTC
 <!--END_SECTION:waka-->
 
 <hr>
