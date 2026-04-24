@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C286%20hrs%2021%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,29 +81,29 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       15 hrs 15 mins      ███████████████████████░░   93.82 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-VB.NET                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C#                       13 hrs 56 mins      ████████████████████████░   94.67 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+VB.NET                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editores: 
-Cursor                   16 hrs 6 mins       █████████████████████████   99.07 % 
-Visual Studio            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Cursor                   14 hrs 34 mins      █████████████████████████   98.97 % 
+Visual Studio            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap15 hrs 54 mins      ████████████████████████░   97.82 % 
-TopSolutions.SOFC.WebApp 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-agent-tools              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TopSolutions.Licitacao.Ap14 hrs 22 mins      ████████████████████████░   97.59 % 
+TopSolutions.SOFC.WebApp 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+agent-tools              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Sistema operacional: 
-Windows                  16 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 21:35:25 UTC
+ Last Updated on 24/04/2026 21:37:04 UTC
 <!--END_SECTION:waka-->
 
 <hr>
