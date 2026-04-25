@@ -81,29 +81,28 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       13 hrs 56 mins      ████████████████████████░   94.67 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-VB.NET                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C#                       11 hrs 3 mins       ████████████████████████░   94.89 % 
+SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+VB.NET                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editores: 
-Cursor                   14 hrs 34 mins      █████████████████████████   98.97 % 
-Visual Studio            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Cursor                   11 hrs 29 mins      █████████████████████████   98.70 % 
+Visual Studio            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap14 hrs 22 mins      ████████████████████████░   97.59 % 
-TopSolutions.SOFC.WebApp 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-agent-tools              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TopSolutions.Licitacao.Ap11 hrs 29 mins      █████████████████████████   98.62 % 
+TopSolutions.SOFC.WebApp 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Sistema operacional: 
-Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 21:37:04 UTC
+ Last Updated on 25/04/2026 21:25:35 UTC
 <!--END_SECTION:waka-->
 
 <hr>
