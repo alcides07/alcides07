@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C314%20hrs%2012%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,31 +81,31 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       16 hrs 36 mins      ██████████████████████░░░   87.20 % 
-ANTLR                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+C#                       17 hrs 30 mins      ██████████████████████░░░   89.30 % 
+SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+ANTLR                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Java                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editores: 
-Cursor                   18 hrs 3 mins       ████████████████████████░   94.74 % 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Cursor                   18 hrs 35 mins      ████████████████████████░   94.88 % 
+VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap17 hrs 33 mins      ███████████████████████░░   92.17 % 
-FoxScript                1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-agent-tools              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-terminals                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+TopSolutions.Licitacao.Ap18 hrs 15 mins      ███████████████████████░░   93.15 % 
+FoxScript                1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+agent-tools              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Sistema operacional: 
-Windows                  18 hrs 3 mins       ████████████████████████░   94.74 % 
-Linux                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Windows                  18 hrs 35 mins      ████████████████████████░   94.88 % 
+Linux                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 
- Last Updated on 04/05/2026 21:51:00 UTC
+ Last Updated on 05/05/2026 21:50:39 UTC
 <!--END_SECTION:waka-->
 
 <hr>
