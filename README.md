@@ -81,32 +81,32 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       17 hrs 27 mins      ████████████████████░░░░░   78.25 % 
-Java                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-ANTLR                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C#                       21 hrs 13 mins      ███████████████████░░░░░░   77.95 % 
+Java                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+VB.NET                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+ANTLR                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+SQL                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editores: 
-Cursor                   18 hrs 45 mins      █████████████████████░░░░   84.06 % 
-VS Code                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-IntelliJ IDEA            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Visual Studio            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Cursor                   22 hrs 54 mins      █████████████████████░░░░   84.11 % 
+VS Code                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Visual Studio            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+IntelliJ IDEA            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap18 hrs 43 mins      █████████████████████░░░░   83.92 % 
-FoxScript                3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-TopSolutions.SOFC.WebApp 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-terminals                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-agent-tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TopSolutions.Licitacao.Ap22 hrs 49 mins      █████████████████████░░░░   83.84 % 
+FoxScript                3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+TopSolutions.SOFC.WebApp 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+terminals                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+agent-tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Sistema operacional: 
-Windows                  18 hrs 53 mins      █████████████████████░░░░   84.67 % 
-Linux                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Windows                  23 hrs 48 mins      ██████████████████████░░░   87.43 % 
+Linux                    3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 ```
 
 
- Last Updated on 08/05/2026 21:46:16 UTC
+ Last Updated on 09/05/2026 21:32:06 UTC
 <!--END_SECTION:waka-->
 
 <hr>
