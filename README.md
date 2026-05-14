@@ -73,40 +73,8 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2021%20mins-blue?style=flat)
 
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Fortaleza
-
-💬 Linguagens de programação: 
-C#                       18 hrs 9 mins       ███████████████████░░░░░░   76.62 % 
-Java                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-VB.NET                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-
-🔥 Editores: 
-Cursor                   20 hrs 8 mins       █████████████████████░░░░   84.99 % 
-VS Code                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Visual Studio            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-IntelliJ IDEA            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap20 hrs 2 mins       █████████████████████░░░░   84.54 % 
-FoxScript                2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-TopSolutions.SOFC.WebApp 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-agent-tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Sistema operacional: 
-Windows                  21 hrs 17 mins      ██████████████████████░░░   89.79 % 
-Linux                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-```
-
-
- Last Updated on 13/05/2026 22:03:12 UTC
+ Last Updated on 14/05/2026 21:58:25 UTC
 <!--END_SECTION:waka-->
 
 <hr>
