@@ -81,31 +81,31 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       20 hrs 52 mins      ██████████████████░░░░░░░   71.47 % 
-Java                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-VB.NET                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C#                       16 hrs 38 mins      █████████████████░░░░░░░░   68.32 % 
+Java                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+VB.NET                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editores: 
-Cursor                   22 hrs 40 mins      ███████████████████░░░░░░   77.64 % 
-VS Code                  5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Visual Studio            57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Cursor                   18 hrs 1 min        ██████████████████░░░░░░░   74.00 % 
+VS Code                  5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Visual Studio            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap21 hrs 41 mins      ███████████████████░░░░░░   74.24 % 
-FoxScript                5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-TopSolutions.SOFC.WebApp 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-agent-tools              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-TopSolutions.Licitacao.We15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TopSolutions.Licitacao.Ap17 hrs 27 mins      ██████████████████░░░░░░░   71.72 % 
+FoxScript                5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+TopSolutions.SOFC.WebApp 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+agent-tools              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 38 mins      ████████████████████░░░░░   80.90 % 
-Linux                    5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Windows                  18 hrs 46 mins      ███████████████████░░░░░░   77.08 % 
+Linux                    5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 ```
 
 
- Last Updated on 22/05/2026 21:54:40 UTC
+ Last Updated on 23/05/2026 21:42:01 UTC
 <!--END_SECTION:waka-->
 
 <hr>
