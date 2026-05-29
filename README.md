@@ -73,10 +73,39 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2046%20mins-blue?style=flat)
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Fortaleza
+
+💬 Linguagens de programação: 
+C#                       17 hrs 10 mins      ███████████████████░░░░░░   77.11 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+VB.NET                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
+🔥 Editores: 
+VS Code                  18 hrs 3 mins       ████████████████████░░░░░   81.03 % 
+Cursor                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Visual Studio            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+
+🐱‍💻 Projetos: 
+TopSolutions.Licitacao.Ap18 hrs 14 mins      ████████████████████░░░░░   81.85 % 
+salgados-jaque-monolitico2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+FoxScript                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TopSolutions.SOFC.WebApp 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+💻 Sistema operacional: 
+Windows                  19 hrs 10 mins      ██████████████████████░░░   86.09 % 
+Linux                    3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+```
 
 
- Last Updated on 28/05/2026 22:24:26 UTC
+ Last Updated on 29/05/2026 22:22:37 UTC
 <!--END_SECTION:waka-->
 
 <hr>
