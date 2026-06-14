@@ -81,30 +81,32 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       10 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
-Vue                      6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-VB.NET                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+C#                       10 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+Vue                      6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+VB.NET                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editores: 
-VS Code                  17 hrs 52 mins      ███████████████████░░░░░░   76.59 % 
-Cursor                   4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Visual Studio            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+VS Code                  17 hrs 54 mins      ███████████████████░░░░░░   76.37 % 
+Cursor                   4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Visual Studio            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap11 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.34 % 
-TopSolutions.Licitacao.We7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
-TopSolutions.SOFC.WebApp 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Licitacao                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TopSolutions.Licitacao.Re21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TopSolutions.Licitacao.Ap11 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.11 % 
+TopSolutions.Licitacao.We7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
+TopSolutions.SOFC.WebApp 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Licitacao                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+TopSolutions.Licitacao.Re21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 19 mins      █████████████████████████   99.52 % 
+Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
- Last Updated on 13/06/2026 21:55:07 UTC
+ Last Updated on 14/06/2026 22:00:39 UTC
 <!--END_SECTION:waka-->
 
 <hr>
