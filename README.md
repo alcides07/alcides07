@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C494%20hrs%201%20min-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,32 +81,32 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       11 hrs 2 mins       █████████████░░░░░░░░░░░░   50.34 % 
-Vue                      7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.86 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+C#                       11 hrs 35 mins      ████████████░░░░░░░░░░░░░   46.19 % 
+Vue                      9 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+VB.NET                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editores: 
-Cursor                   21 hrs 20 mins      ████████████████████████░   97.32 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Cursor                   24 hrs 29 mins      ████████████████████████░   97.65 % 
+VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap11 hrs 51 mins      ██████████████░░░░░░░░░░░   54.08 % 
-TopSolutions.Licitacao.We8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
-Licitacao                1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-TopSolutions.SOFC.WebApp 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-salgados-jaque-monolitico6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TopSolutions.Licitacao.Ap12 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.67 % 
+TopSolutions.Licitacao.We10 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   41.12 % 
+Licitacao                1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TopSolutions.SOFC.WebApp 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Sistema operacional: 
-Windows                  21 hrs 49 mins      █████████████████████████   99.49 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Windows                  24 hrs 58 mins      █████████████████████████   99.55 % 
+Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 19/06/2026 21:56:17 UTC
+ Last Updated on 20/06/2026 21:57:30 UTC
 <!--END_SECTION:waka-->
 
 <hr>
