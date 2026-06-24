@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C503%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2049%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,29 +81,29 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       12 hrs 21 mins      ███████████░░░░░░░░░░░░░░   45.18 % 
-Vue                      11 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-VB.NET                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Vue                      11 hrs 22 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
+C#                       10 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.30 % 
+VB.NET                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editores: 
-Cursor                   26 hrs 59 mins      █████████████████████████   98.62 % 
-VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Cursor                   25 hrs 35 mins      █████████████████████████   98.54 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap13 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.26 % 
-TopSolutions.Licitacao.We11 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
-Licitacao                1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-TopSolutions.SOFC.WebApp 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+TopSolutions.Licitacao.We12 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.21 % 
+TopSolutions.Licitacao.Ap11 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.82 % 
+TopSolutions.SOFC.WebApp 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Licitacao                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Sistema operacional: 
-Windows                  27 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 22:06:36 UTC
+ Last Updated on 24/06/2026 22:05:29 UTC
 <!--END_SECTION:waka-->
 
 <hr>
