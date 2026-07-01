@@ -73,7 +73,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2058%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -81,28 +81,28 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.57 % 
-Vue                      6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+C#                       11 hrs 4 mins       ████████████░░░░░░░░░░░░░   48.02 % 
+Vue                      7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editores: 
-Cursor                   19 hrs 46 mins      █████████████████████████   100.00 % 
+Cursor                   23 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap9 hrs 57 mins       █████████████░░░░░░░░░░░░   50.41 % 
-TopSolutions.Licitacao.We7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
-Licitacao                1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-agent-tools              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-TopSolutions.SOFC.WebApp 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+TopSolutions.Licitacao.Ap12 hrs 23 mins      █████████████░░░░░░░░░░░░   53.80 % 
+TopSolutions.Licitacao.We8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.32 % 
+Licitacao                1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+TopSolutions.SOFC.WebApp 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+agent-tools              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Sistema operacional: 
-Windows                  19 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 22:06:23 UTC
+ Last Updated on 01/07/2026 22:10:56 UTC
 <!--END_SECTION:waka-->
 
 <hr>
