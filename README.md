@@ -81,28 +81,28 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       12 hrs 4 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
-Vue                      9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.95 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+C#                       12 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.80 % 
+Vue                      8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 VB.NET                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editores: 
-Cursor                   26 hrs 23 mins      █████████████████████████   100.00 % 
+Cursor                   26 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap13 hrs 48 mins      █████████████░░░░░░░░░░░░   52.30 % 
-TopSolutions.Licitacao.We10 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
-Licitacao                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-TopSolutions.SOFC.WebApp 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-agent-tools              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TopSolutions.Licitacao.Ap14 hrs 20 mins      ██████████████░░░░░░░░░░░   54.18 % 
+TopSolutions.Licitacao.We9 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+Licitacao                1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+TopSolutions.SOFC.WebApp 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+terminals                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Sistema operacional: 
-Windows                  26 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 21:53:46 UTC
+ Last Updated on 04/07/2026 21:44:48 UTC
 <!--END_SECTION:waka-->
 
 <hr>
