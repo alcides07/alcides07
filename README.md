@@ -81,28 +81,29 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
-Vue                      6 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Vue                      6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.31 % 
+C#                       5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+SQL                      3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editores: 
-Cursor                   17 hrs 59 mins      █████████████████████████   100.00 % 
+Cursor                   18 hrs 7 mins       █████████████████████████   99.33 % 
+Visual Studio            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.We8 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.27 % 
-TopSolutions.Licitacao.Ap8 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.00 % 
-Licitacao                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-TopSolutions.SOFC.WebApp 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-terminals                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TopSolutions.Licitacao.Ap9 hrs 27 mins       █████████████░░░░░░░░░░░░   51.86 % 
+TopSolutions.Licitacao.We7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+Licitacao                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+TopSolutions.SOFC.WebApp 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TopSolutions.SOFC.MCP    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Sistema operacional: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 21:48:39 UTC
+ Last Updated on 11/07/2026 21:36:58 UTC
 <!--END_SECTION:waka-->
 
 <hr>
