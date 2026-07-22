@@ -81,31 +81,31 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
-SQL                      6 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-Vue                      3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Other                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+C#                       7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.97 % 
+Vue                      3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Other                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+SQL                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🔥 Editores: 
-Cursor                   22 hrs 25 mins      ████████████████████████░   96.53 % 
-Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Cursor                   16 hrs 12 mins      ████████████████████████░   95.27 % 
+Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap14 hrs 50 mins      ████████████████░░░░░░░░░   63.89 % 
-TopSolutions.Licitacao.We3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Licitacao                2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-salgados-jaque-monolitico48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-terminals                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TopSolutions.Licitacao.Ap9 hrs 32 mins       ██████████████░░░░░░░░░░░   56.09 % 
+TopSolutions.Licitacao.We3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Licitacao                2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+salgados-jaque-monolitico48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+terminals                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Sistema operacional: 
-Windows                  22 hrs 25 mins      ████████████████████████░   96.53 % 
-Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Windows                  16 hrs 12 mins      ████████████████████████░   95.27 % 
+Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 
 
- Last Updated on 21/07/2026 21:51:50 UTC
+ Last Updated on 22/07/2026 21:53:24 UTC
 <!--END_SECTION:waka-->
 
 <hr>
