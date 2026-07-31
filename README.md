@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2020%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,56 +83,54 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-TypeScript               3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-SQL                      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Vue                      2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+C#                       10 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   36.89 % 
+Vue                      4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Other                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+SQL                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+JSON                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editores: 
-Cursor                   23 hrs 28 mins      ██████████████████████░░░   89.16 % 
-Codex CLI                1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Cursor                   28 hrs 46 mins      █████████████████████████   99.73 % 
+Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap15 hrs 3 mins       ██████████████░░░░░░░░░░░   57.22 % 
-TopSolutions.Licitacao.We4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Licitacao                3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Nilo                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-TopSolutions.SOFC.WebApp 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TopSolutions.Licitacao.Ap16 hrs 35 mins      ██████████████░░░░░░░░░░░   57.49 % 
+TopSolutions.Licitacao.We7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Licitacao                4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+TopSolutions.SOFC.WebApp 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 33 mins      ██████████████████████░░░   89.44 % 
-Linux                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Windows                  28 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 45 mins (71.23%)
+⏱ AI Coding Time: 20 hrs 41 mins (71.75%)
 
-✍️ 7,388 lines written by AI, 841 lines written by hand (89.78% AI-written)
+✍️ 7,314 lines written by AI, 793 lines written by hand (90.22% AI-written)
 
-🔤 129,687,789 Input Tokens, 539,358 Output Tokens
+🔤 183,585,502 Input Tokens, 659,654 Output Tokens
 
-💵 $703.02 Estimated AI Cost This Week
+💵 $980.08 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 244 AI Prompts
+🧠 46 AI Sessions, 279 AI Prompts
 
-GPT                      7,060 lines         ███████████████████████░░   93.83 % 
-Composer                 353 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Grok                     111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GPT                      6,996 lines         ███████████████████████░░   93.78 % 
+Composer                 353 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Grok                     111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.78% of written lines came from AI
-📄 Detailed Prompter — average 989 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 47.51% of changed lines were hand-edited
+🤖 AI-Driven — 90.22% of written lines came from AI
+📄 Detailed Prompter — average 942 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 47.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 21:55:50 UTC
+ Last Updated on 31/07/2026 21:54:33 UTC
 <!--END_SECTION:waka-->
 
 <hr>
