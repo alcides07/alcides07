@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2045%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,52 +83,52 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-SQL                      5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-C#                       5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Vue                      3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+SQL                      6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
+C#                       4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Vue                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 🔥 Editores: 
-Cursor                   20 hrs 38 mins      █████████████████████████   100.00 % 
+Cursor                   19 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap12 hrs 24 mins      ███████████████░░░░░░░░░░   60.10 % 
-TopSolutions.Licitacao.We5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Licitacao                2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-TopSolutions.SOFC.WebApp 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TopSolutions.Licitacao.Ap13 hrs 17 mins      █████████████████░░░░░░░░   69.29 % 
+TopSolutions.Licitacao.We4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Licitacao                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TopSolutions.SOFC.WebApp 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Sistema operacional: 
-Windows                  20 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 11 mins (54.21%)
+⏱ AI Coding Time: 7 hrs 26 mins (38.79%)
 
-✍️ 6,513 lines written by AI, 1,442 lines written by hand (81.87% AI-written)
+✍️ 4,934 lines written by AI, 1,559 lines written by hand (75.99% AI-written)
 
-🔤 128,090,403 Input Tokens, 448,293 Output Tokens
+🔤 65,104,792 Input Tokens, 247,746 Output Tokens
 
-💵 $727.76 Estimated AI Cost This Week
+💵 $450.04 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 143 AI Prompts
+🧠 31 AI Sessions, 76 AI Prompts
 
-GPT                      6,097 lines         █████████████████████░░░░   84.04 % 
-Grok                     1,155 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GPT                      4,654 lines         ████████████████████░░░░░   80.08 % 
+Grok                     1,155 lines         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.87% of written lines came from AI
-📄 Detailed Prompter — average 579 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 41.15% of changed lines were hand-edited
+🤖 AI-Driven — 75.99% of written lines came from AI
+📄 Detailed Prompter — average 776 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 51.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 00:58:55 UTC
+ Last Updated on 07/08/2026 21:26:29 UTC
 <!--END_SECTION:waka-->
 
 <hr>
