@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%206%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,53 +83,52 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-SQL                      5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Vue                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+SQL                      5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+C#                       5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Vue                      3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🔥 Editores: 
-Cursor                   21 hrs 2 mins       █████████████████████████   99.66 % 
-Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Cursor                   20 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap12 hrs 42 mins      ███████████████░░░░░░░░░░   60.18 % 
-TopSolutions.Licitacao.We6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Licitacao                1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-TopSolutions.SOFC.WebApp 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TopSolutions.Licitacao.Ap12 hrs 24 mins      ███████████████░░░░░░░░░░   60.10 % 
+TopSolutions.Licitacao.We5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Licitacao                2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TopSolutions.SOFC.WebApp 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Sistema operacional: 
-Windows                  21 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 44 mins (55.64%)
+⏱ AI Coding Time: 11 hrs 11 mins (54.21%)
 
-✍️ 5,226 lines written by AI, 886 lines written by hand (85.5% AI-written)
+✍️ 6,513 lines written by AI, 1,442 lines written by hand (81.87% AI-written)
 
-🔤 120,748,307 Input Tokens, 402,303 Output Tokens
+🔤 128,090,403 Input Tokens, 448,293 Output Tokens
 
-💵 $665.42 Estimated AI Cost This Week
+💵 $727.76 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 158 AI Prompts
+🧠 34 AI Sessions, 143 AI Prompts
 
-GPT                      5,257 lines         ██████████████████████░░░   87.49 % 
-Grok                     749 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      6,097 lines         █████████████████████░░░░   84.04 % 
+Grok                     1,155 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.5% of written lines came from AI
-📄 Detailed Prompter — average 520 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 42.78% of changed lines were hand-edited
+🤖 AI-Driven — 81.87% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 41.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 22:03:01 UTC
+ Last Updated on 07/08/2026 00:58:55 UTC
 <!--END_SECTION:waka-->
 
 <hr>
