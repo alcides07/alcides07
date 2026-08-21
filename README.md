@@ -83,53 +83,53 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
-SQL                      2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Vue                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+C#                       3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
+SQL                      2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Vue                      1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editores: 
-Cursor                   6 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.12 % 
-Agent                    4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Codex Vscode             2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Cursor                   4 hrs 58 mins       ██████████████░░░░░░░░░░░   55.93 % 
+Agent                    3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap9 hrs 7 mins        ████████████████░░░░░░░░░   65.49 % 
-TopSolutions.Licitacao.We3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Licitacao                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TopSolutions.Licitacao.Ap6 hrs 57 mins       ████████████████████░░░░░   78.15 % 
+TopSolutions.Licitacao.We1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Licitacao                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Sistema operacional: 
-Windows                  13 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 27 mins (89.35%)
+⏱ AI Coding Time: 7 hrs 33 mins (84.92%)
 
-✍️ 2,161 lines written by AI, 211 lines written by hand (91.1% AI-written)
+✍️ 542 lines written by AI, 191 lines written by hand (73.94% AI-written)
 
-🔤 1,593,081 Input Tokens, 211,474 Output Tokens
+🔤 291,853 Input Tokens, 77,448 Output Tokens
 
-💵 $33.54 Estimated AI Cost This Week
+💵 $7.99 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 355 AI Prompts
+🧠 15 AI Sessions, 253 AI Prompts
 
-GPT                      1,471 lines         ██████████████░░░░░░░░░░░   55.80 % 
-Grok                     1,164 lines         ███████████░░░░░░░░░░░░░░   44.16 % 
-Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Grok                     1,099 lines         ████████████████████████░   94.82 % 
+GPT                      60 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.1% of written lines came from AI
-📄 Detailed Prompter — average 919 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 10.98% of changed lines were hand-edited
+🤖 AI-Driven — 73.94% of written lines came from AI
+📄 Detailed Prompter — average 987 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 23.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 21:16:00 UTC
+ Last Updated on 21/08/2026 21:11:49 UTC
 <!--END_SECTION:waka-->
 
 <hr>
