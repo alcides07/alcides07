@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2042%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,57 +83,57 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
-SQL                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Vue                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+SQL                      3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
+C#                       2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Other                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Vue                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🔥 Editores: 
-Cursor                   3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.98 % 
-Agent                    2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
-Codex Vscode             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Cursor                   5 hrs 46 mins       ███████████████░░░░░░░░░░   58.24 % 
+Agent                    2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Codex Vscode             1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projetos: 
-TopSolutions.Licitacao.Ap5 hrs 20 mins       ███████████████████░░░░░░   74.90 % 
-TopSolutions.Licitacao.We57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Licitacao                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-django                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TopSolutions.Licitacao.Ap7 hrs 8 mins        ██████████████████░░░░░░░   72.23 % 
+Licitacao                1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+TopSolutions.Licitacao.We44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+django                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Sistema operacional: 
-Windows                  6 hrs 53 mins       ████████████████████████░   96.59 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Windows                  9 hrs 39 mins       ████████████████████████░   97.54 % 
+Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 58 mins (69.66%)
+⏱ AI Coding Time: 6 hrs 23 mins (64.61%)
 
-✍️ 167 lines written by AI, 647 lines written by hand (20.52% AI-written)
+✍️ 475 lines written by AI, 762 lines written by hand (38.4% AI-written)
 
-🔤 428,422 Input Tokens, 48,388 Output Tokens
+🔤 1,580,513 Input Tokens, 140,010 Output Tokens
 
-💵 $6.67 Estimated AI Cost This Week
+💵 $19.63 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 141 AI Prompts
+🧠 23 AI Sessions, 170 AI Prompts
 
-Grok                     1,000 lines         █████████████████████████   99.50 % 
-GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Grok                     781 lines           ███████████████░░░░░░░░░░   60.17 % 
+GPT                      517 lines           ██████████░░░░░░░░░░░░░░░   39.83 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.52% of written lines came from AI
-📄 Detailed Prompter — average 812 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 80.21% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.4% of written lines came from AI
+📝 Concise Prompter — average 462 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 72.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 21:15:18 UTC
+ Last Updated on 27/08/2026 00:19:03 UTC
 <!--END_SECTION:waka-->
 
 <hr>
