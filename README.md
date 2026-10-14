@@ -83,47 +83,45 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-C#                       10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   42.42 % 
-Other                    7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Vue                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+C#                       10 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.98 % 
+Other                    5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Vue                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editores: 
-Codex Vscode             12 hrs 48 mins      █████████████░░░░░░░░░░░░   51.55 % 
-Cursor                   6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-VS Code                  5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             10 hrs 18 mins      █████████████░░░░░░░░░░░░   50.86 % 
+VS Code                  5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Cursor                   4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 
 💻 Sistema operacional: 
-Windows                  24 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 50 mins (67.76%)
+⏱ AI Coding Time: 13 hrs 35 mins (67.03%)
 
-✍️ 5,376 lines written by AI, 950 lines written by hand (84.98% AI-written)
+✍️ 5,220 lines written by AI, 438 lines written by hand (92.26% AI-written)
 
-🔤 5,638,219 Input Tokens, 671,412 Output Tokens
+🔤 4,692,751 Input Tokens, 583,189 Output Tokens
 
-💵 $43.40 Estimated AI Cost This Week
+💵 $39.48 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 251 AI Prompts
+🧠 30 AI Sessions, 179 AI Prompts
 
-GPT                      5,501 lines         █████████████████████████   99.95 % 
-Grok                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      5,316 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.98% of written lines came from AI
-📚 Verbose Prompter — average 2,436 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.19% of changed lines were hand-edited
+🤖 AI-Driven — 92.26% of written lines came from AI
+📝 Concise Prompter — average 312 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 11.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 02:17:15 UTC
+ Last Updated on 14/10/2026 00:00:02 UTC
 <!--END_SECTION:waka-->
 
 <hr>
