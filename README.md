@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C783%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2042%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,45 +83,44 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-Other                    8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.24 % 
-C#                       8 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Vue                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Other                    8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+C#                       7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Markdown                 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Vue                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editores: 
-Codex Vscode             11 hrs 46 mins      █████████████░░░░░░░░░░░░   50.08 % 
-VS Code                  11 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.81 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Codex Vscode             11 hrs 26 mins      █████████████░░░░░░░░░░░░   50.67 % 
+VS Code                  11 hrs 8 mins       ████████████░░░░░░░░░░░░░   49.33 % 
 
 💻 Sistema operacional: 
-Windows                  23 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 38 mins (75.02%)
+⏱ AI Coding Time: 17 hrs 18 mins (76.65%)
 
-✍️ 4,834 lines written by AI, 244 lines written by hand (95.19% AI-written)
+✍️ 3,985 lines written by AI, 192 lines written by hand (95.4% AI-written)
 
-🔤 7,709,462 Input Tokens, 1,090,001 Output Tokens
+🔤 8,340,205 Input Tokens, 1,049,268 Output Tokens
 
-💵 $70.92 Estimated AI Cost This Week
+💵 $58.54 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 253 AI Prompts
+🧠 40 AI Sessions, 242 AI Prompts
 
-GPT                      4,992 lines         █████████████████████████   100.00 % 
+GPT                      4,134 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.19% of written lines came from AI
-📝 Concise Prompter — average 340 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.91% of changed lines were hand-edited
+🤖 AI-Driven — 95.4% of written lines came from AI
+📝 Concise Prompter — average 362 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 9.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 23:30:51 UTC
+ Last Updated on 21/10/2026 23:45:50 UTC
 <!--END_SECTION:waka-->
 
 <hr>
