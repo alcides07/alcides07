@@ -73,9 +73,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-445%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2051%20mins-blue?style=flat)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -83,23 +83,44 @@
 🕑︎ Fuso horário: America/Fortaleza
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Other                    1 hr 30 mins        █████████████████████░░░░   84.54 % 
+Vue                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+C#                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+Codex Vscode             59 mins             ██████████████░░░░░░░░░░░   55.62 % 
+VS Code                  47 mins             ███████████░░░░░░░░░░░░░░   44.38 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 34 mins (88.55%)
+
+✍️ 30 lines written by AI, 3 lines written by hand (90.91% AI-written)
+
+🔤 588,115 Input Tokens, 57,520 Output Tokens
+
+💵 $31.28 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 16 AI Prompts
+
+GPT                      30 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.91% of written lines came from AI
+📄 Detailed Prompter — average 511 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 14.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/11/2026 05:01:51 UTC
+ Last Updated on 25/11/2026 03:50:46 UTC
 <!--END_SECTION:waka-->
 
 <hr>
